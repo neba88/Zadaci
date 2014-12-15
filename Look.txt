@@ -1,0 +1,7 @@
+        public void Look()
+        {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Title = "Zadatak";
+        }

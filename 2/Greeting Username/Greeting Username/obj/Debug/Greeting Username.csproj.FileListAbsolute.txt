@@ -1,0 +1,6 @@
+D:\Documents\Zadaci\2\Greeting Username\Greeting Username\bin\Debug\Greeting Username.exe.config
+D:\Documents\Zadaci\2\Greeting Username\Greeting Username\bin\Debug\Greeting Username.exe
+D:\Documents\Zadaci\2\Greeting Username\Greeting Username\bin\Debug\Greeting Username.pdb
+D:\Documents\Zadaci\2\Greeting Username\Greeting Username\obj\Debug\Greeting Username.csprojResolveAssemblyReference.cache
+D:\Documents\Zadaci\2\Greeting Username\Greeting Username\obj\Debug\Greeting Username.exe
+D:\Documents\Zadaci\2\Greeting Username\Greeting Username\obj\Debug\Greeting Username.pdb

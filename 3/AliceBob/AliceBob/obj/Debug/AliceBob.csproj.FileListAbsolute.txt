@@ -1,0 +1,5 @@
+D:\Documents\Zadaci\3\AliceBob\AliceBob\bin\Debug\AliceBob.exe.config
+D:\Documents\Zadaci\3\AliceBob\AliceBob\bin\Debug\AliceBob.exe
+D:\Documents\Zadaci\3\AliceBob\AliceBob\bin\Debug\AliceBob.pdb
+D:\Documents\Zadaci\3\AliceBob\AliceBob\obj\Debug\AliceBob.exe
+D:\Documents\Zadaci\3\AliceBob\AliceBob\obj\Debug\AliceBob.pdb

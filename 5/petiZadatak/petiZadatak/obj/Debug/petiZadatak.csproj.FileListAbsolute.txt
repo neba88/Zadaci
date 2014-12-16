@@ -1,0 +1,6 @@
+D:\Documents\Zadaci\5\petiZadatak\petiZadatak\bin\Debug\petiZadatak.exe.config
+D:\Documents\Zadaci\5\petiZadatak\petiZadatak\bin\Debug\petiZadatak.exe
+D:\Documents\Zadaci\5\petiZadatak\petiZadatak\bin\Debug\petiZadatak.pdb
+D:\Documents\Zadaci\5\petiZadatak\petiZadatak\obj\Debug\petiZadatak.csprojResolveAssemblyReference.cache
+D:\Documents\Zadaci\5\petiZadatak\petiZadatak\obj\Debug\petiZadatak.exe
+D:\Documents\Zadaci\5\petiZadatak\petiZadatak\obj\Debug\petiZadatak.pdb

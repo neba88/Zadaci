@@ -1,0 +1,6 @@
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\4\printTheSum\printTheSum\bin\Debug\printTheSum.exe.config
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\4\printTheSum\printTheSum\bin\Debug\printTheSum.exe
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\4\printTheSum\printTheSum\bin\Debug\printTheSum.pdb
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\4\printTheSum\printTheSum\obj\Debug\printTheSum.csprojResolveAssemblyReference.cache
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\4\printTheSum\printTheSum\obj\Debug\printTheSum.exe
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\4\printTheSum\printTheSum\obj\Debug\printTheSum.pdb

@@ -1,0 +1,5 @@
+D:\Documents\GitHub\Zadaci\7\sedmiZadatak\sedmiZadatak\bin\Debug\sedmiZadatak.exe.config
+D:\Documents\GitHub\Zadaci\7\sedmiZadatak\sedmiZadatak\bin\Debug\sedmiZadatak.exe
+D:\Documents\GitHub\Zadaci\7\sedmiZadatak\sedmiZadatak\bin\Debug\sedmiZadatak.pdb
+D:\Documents\GitHub\Zadaci\7\sedmiZadatak\sedmiZadatak\obj\Debug\sedmiZadatak.exe
+D:\Documents\GitHub\Zadaci\7\sedmiZadatak\sedmiZadatak\obj\Debug\sedmiZadatak.pdb

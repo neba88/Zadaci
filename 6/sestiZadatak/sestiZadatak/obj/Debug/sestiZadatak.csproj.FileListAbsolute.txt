@@ -1,0 +1,6 @@
+D:\Documents\Zadaci\6\sestiZadatak\sestiZadatak\bin\Debug\sestiZadatak.exe.config
+D:\Documents\Zadaci\6\sestiZadatak\sestiZadatak\bin\Debug\sestiZadatak.exe
+D:\Documents\Zadaci\6\sestiZadatak\sestiZadatak\bin\Debug\sestiZadatak.pdb
+D:\Documents\Zadaci\6\sestiZadatak\sestiZadatak\obj\Debug\sestiZadatak.csprojResolveAssemblyReference.cache
+D:\Documents\Zadaci\6\sestiZadatak\sestiZadatak\obj\Debug\sestiZadatak.exe
+D:\Documents\Zadaci\6\sestiZadatak\sestiZadatak\obj\Debug\sestiZadatak.pdb

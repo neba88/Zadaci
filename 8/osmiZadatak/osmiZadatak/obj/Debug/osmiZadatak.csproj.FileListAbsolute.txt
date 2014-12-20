@@ -1,0 +1,6 @@
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\8\osmiZadatak\osmiZadatak\bin\Debug\osmiZadatak.exe.config
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\8\osmiZadatak\osmiZadatak\bin\Debug\osmiZadatak.exe
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\8\osmiZadatak\osmiZadatak\bin\Debug\osmiZadatak.pdb
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\8\osmiZadatak\osmiZadatak\obj\Debug\osmiZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\8\osmiZadatak\osmiZadatak\obj\Debug\osmiZadatak.exe
+C:\Users\Nebica\Documents\Visual Studio 2013\Projects\Zadaci\8\osmiZadatak\osmiZadatak\obj\Debug\osmiZadatak.pdb

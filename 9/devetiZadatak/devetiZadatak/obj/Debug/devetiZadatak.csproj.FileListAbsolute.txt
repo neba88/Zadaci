@@ -1,0 +1,6 @@
+D:\GitHub\Zadaci\Zadaci\9\devetiZadatak\devetiZadatak\bin\Debug\devetiZadatak.exe.config
+D:\GitHub\Zadaci\Zadaci\9\devetiZadatak\devetiZadatak\bin\Debug\devetiZadatak.exe
+D:\GitHub\Zadaci\Zadaci\9\devetiZadatak\devetiZadatak\bin\Debug\devetiZadatak.pdb
+D:\GitHub\Zadaci\Zadaci\9\devetiZadatak\devetiZadatak\obj\Debug\devetiZadatak.csprojResolveAssemblyReference.cache
+D:\GitHub\Zadaci\Zadaci\9\devetiZadatak\devetiZadatak\obj\Debug\devetiZadatak.exe
+D:\GitHub\Zadaci\Zadaci\9\devetiZadatak\devetiZadatak\obj\Debug\devetiZadatak.pdb
